@@ -1,0 +1,17 @@
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Department.resources
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Instructor.resources
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendance_Record.resources
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Courses.resources
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student.resources
+D:\Thanhcode\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Class_session.resources
